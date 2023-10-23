@@ -1,4 +1,4 @@
-/* Copyright (C) 2023. Shivashish Das*/
+/* Copyright (C) 2023. Shivashish Das. Licensed under the MIT License.*/
 #include <stdint.h>
 #include <stdlib.h>
 #include <stdio.h>
